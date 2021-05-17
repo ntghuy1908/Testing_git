@@ -1,0 +1,4 @@
+Màn hình dùng chung, màn hình dùng riêng là cái nào
+Login 2 works: Identify authenticaed users and which role is the user
+
+accept hay reject orders
